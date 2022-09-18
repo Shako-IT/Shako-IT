@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shako-IT
+- 👋 Hi, I’m Shako
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
